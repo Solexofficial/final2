@@ -1,0 +1,5 @@
+export const CLIENTS_REQUESTED = 'clients/CLIENTS_REQUESTED';
+export const CLIENTS_RECEIVED = 'clients/CLIENTS_RECEIVED';
+export const CLIENTS_REQUESTED_FAILED = 'clients/CLIENTS_REQUESTED_FAILED';
+export const CLIENT_UPDATED = 'clients/CLIENT_UPDATED';
+export const CLIENT_DELETED = 'clients/CLIENTS_DELETED';
